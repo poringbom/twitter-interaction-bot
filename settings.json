@@ -1,0 +1,19 @@
+{
+  "consumer_key": "YOUR_CONSUMER_KEY",
+  "consumer_secret": "YOUR_CONSUMER_SECRET",
+  "access_token": "YOUR_ACCESS_TOKEN",
+  "access_token_secret": "YOUR_ACCESS_TOKEN_SECRET",
+  "twitter_username": "TWITTER_USERNAME",
+  "interval_time": 300,
+  "log_file": "log.txt",
+  "comment_wordings": [
+    "Great tweet, {0}!",
+    "{0}, your tweet is awesome!",
+    "Thank you for sharing, {0}!"
+  ],
+  "quote_wordings": [
+    "I completely agree, {0}! '{1}'",
+    "Wow, {0}, this tweet really resonates with me: '{1}'",
+    "This tweet by {0} is so inspiring! '{1}'"
+  ]
+}

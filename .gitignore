@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*$py.class
+
+# Log files
+*.log
+
+# Python virtual environment
+venv/
+
+# IDEs and Editors
+.vscode/
+*.vscode
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# # Other files and directories to ignore
+# settings.json
+# config.json
